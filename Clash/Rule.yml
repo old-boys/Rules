@@ -128,12 +128,15 @@ Rule:
 # (AsianTV)
 # > Bilibili
 - DOMAIN-KEYWORD,bilibili,AsianTV
+- DOMAIN-KEYWORD,bilivideo,AsianTV
 - DOMAIN-SUFFIX,acg.tv,AsianTV
 - DOMAIN-SUFFIX,acgvideo.com,AsianTV
 - DOMAIN-SUFFIX,b23.tv,AsianTV
 - DOMAIN-SUFFIX,biliapi.com,AsianTV
 - DOMAIN-SUFFIX,biliapi.net,AsianTV
 - DOMAIN-SUFFIX,bilibili.com,AsianTV
+- DOMAIN-SUFFIX,bilivideo.com,AsianTV
+- DOMAIN-SUFFIX,bilivideo.net,AsianTV
 - DOMAIN-SUFFIX,biligame.com,AsianTV
 - DOMAIN-SUFFIX,biligame.net,AsianTV
 - DOMAIN-SUFFIX,hdslb.com,AsianTV
